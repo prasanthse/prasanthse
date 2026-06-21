@@ -167,7 +167,7 @@ A Webpack-based project demonstrating modern JavaScript bundling, optimization, 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C1&height=100&section=footer&fontSize=32&fontColor=ffffff&text=The%20best%20is%20yet%20to%20come"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C1&height=100&section=footer&fontSize=16&fontColor=ffffff&text=The%20best%20is%20yet%20to%20come"/>
 
 <!--
 **prasanthse/prasanthse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
