@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# Sivakumar Prasanth
+# It's PRASANTH
 
-### 💻 Software Engineer • 🎮 Game Developer • 🚀 Founder & CEO @ Code3x
+### 💻 Software Engineer nbsp;• 🎮 Game Developer • 🚀 Founder & CEO @ Code3x
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&color=0A66C1&center=true&vCenter=true&width=700&lines=Building+Games+and+Digital+Experiences;Unity+Developer;Full+Stack+Engineer;Exploring+AI+in+Game+Development" />
 
