@@ -157,8 +157,8 @@ A Webpack-based project demonstrating modern JavaScript bundling, optimization, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasanthse&show_icons=true&theme=monokai&hide_border=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthse&layout=compact&theme=dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prasanthse&show_icons=true&theme=monokai&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthse&layout=compact&theme=dark&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
