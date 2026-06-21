@@ -42,7 +42,10 @@ It's
 
 ## 🌐 Connect
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a><br>
+<a href="https://www.linkedin.com/in/prasanthse1996">
+<img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/>
+</a>
+<br>
 <a href="https://github.com/YOUR_USERNAME">GitHub</a><br>
 <a href="https://code3x.tech">Code3x</a>
 
