@@ -154,11 +154,9 @@ A Webpack-based project demonstrating modern JavaScript bundling, optimization, 
 </tr>
 </table>
 
-<br>
-
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=prasanthse&theme=darkhub&no-frame=true&row=1&column=6" />
 
 <br>
 
