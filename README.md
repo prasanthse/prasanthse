@@ -156,19 +156,6 @@ A Webpack-based project demonstrating modern JavaScript bundling, optimization, 
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=prasanthse&theme=darkhub&no-frame=true&row=2&column=6" />
-
-<br>
-
-<div align="center">
-
-### 💡 "Turning Ideas Into Digital Experiences"
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
-
-
 <!--
 **prasanthse/prasanthse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
