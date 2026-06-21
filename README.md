@@ -45,20 +45,14 @@ It's
 <a href="https://www.linkedin.com/in/prasanthse1996" target="_blank">
 <img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/>
 </a>
-<a href="https://www.linkedin.com/in/prasanthse1996" target="_blank">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/>
+<a href="wa.link/uxiahr" target="_blank">
+<img src="https://img.icons8.com/color/96/whatsapp.png" width="50px"/>
 </a>
-<a href="https://www.linkedin.com/in/prasanthse1996" target="_blank">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/>
+<a href="mailto:prasanth15sp@gmail.com" target="_blank">
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="50px"/>
 </a>
-<a href="https://www.linkedin.com/in/prasanthse1996" target="_blank">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/>
-</a>
-<a href="https://www.linkedin.com/in/prasanthse1996" target="_blank">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/>
-</a>
-<a href="https://www.linkedin.com/in/prasanthse1996" target="_blank">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/>
+<a href="https://medium.com/@sivakumar-prasanth" target="_blank">
+<img src="https://img.icons8.com/color/96/medium-logo.png" width="50px"/>
 </a>
 
 </td>
