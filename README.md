@@ -24,21 +24,19 @@ It's
 
 <td width="35%" valign="top">
 
-<img src="[YOUR_PROFILE_IMAGE_URL](https://www.dropbox.com/scl/fi/0cabhm3o9bvfdkzoqe0go/Prasanth.jpg?rlkey=z6040uifuqawzkp5ywvpo49pn&st=jjmhpwz3&dl=0)" width="100%" />
-
-<br><br>
-
 ### 🧑‍💻 About Me
+
+🎓 First Class Honors Software Engineering Graduate
 
 🚀 Co-Founder & CEO @ Code3x
 
-🎮 4+ Years in Game Development
+⭐ 5+ Years in Industry
 
 💻 Full Stack Software Engineer
 
-🤖 Exploring AI in Game Development
+🎮 Game Developer
 
-🎓 First Class Honors Graduate
+🤖 Exploring AI in Software Development
 
 🌍 Sri Lanka
 
