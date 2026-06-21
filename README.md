@@ -2,7 +2,9 @@
 
 <div align="center">
 
-# It's PRASANTH
+<h1 align="center">
+It's <span style="font-weight:900; font-size:60px">PRASANTH</span>
+</h1>
 
 <h3 align="center">
 🎮 Game Developer &nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;&nbsp;
