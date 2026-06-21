@@ -1,17 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C1&height=150&section=header&text=Hello%20there%20👋&fontSize=60&&fontColor=ffffff"/>
 
-<p align="center">
-  <svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" 
-      dominant-baseline="middle" 
-      text-anchor="middle"
-      font-family="Roboto"
-      font-size="60"
-      fill="#FFFFFF">
-      I'm Prasanth
-    </text>
-  </svg>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Game+Developer+%F0%9F%8E%AE;Software+Engineer+%F0%9F%92%BB;Co-Founder+%26+CEO+%40+Code3x+%F0%9F%9A%80;Unity+%7C+ReactJS+%7C+Flutter;Building+Digital+Experiences" alt="Typing SVG" />
