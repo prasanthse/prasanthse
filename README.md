@@ -107,14 +107,6 @@ My expertise spans Unity, ReactJS, Flutter, PixiJS, Firebase, and enterprise sof
 
 </td>
 
-<td width="100%">
-
-## 📈 GitHub Streak
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
-
-</td>
-
 </tr>
 </table>
 
