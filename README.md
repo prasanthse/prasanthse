@@ -4,9 +4,7 @@
 
 <h1 align="center">
 It's 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=PRASANTH&fontSize=80&fontColor=FFFFFF" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=PRASANTH&fontSize=80&fontColor=FFFFFF" />
 </h1>
 
 <h3 align="center">
