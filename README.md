@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color='0A66C1'&height=100&section=header&text=Hi%20there%20👋&fontSize=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C1&height=100&section=header&text=Hi%20there%20👋&fontSize=60"/>
 
 <!--
 **prasanthse/prasanthse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
