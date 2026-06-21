@@ -4,7 +4,11 @@
 
 # It's PRASANTH
 
-### 💻 Software Engineer nbsp;• 🎮 Game Developer • 🚀 Founder & CEO @ Code3x
+<h3 align="center">
+🎮 Game Developer &nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;&nbsp;
+💻 Software Engineer &nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;&nbsp;
+🚀 Founder & CEO @ <a href="https://code3x.tech">Code3x</a>
+</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&color=0A66C1&center=true&vCenter=true&width=700&lines=Building+Games+and+Digital+Experiences;Unity+Developer;Full+Stack+Engineer;Exploring+AI+in+Game+Development" />
 
