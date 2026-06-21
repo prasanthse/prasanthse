@@ -40,9 +40,7 @@ It's
 
 🌍 Sri Lanka
 
-<br>
-
-### 🌐 Connect
+## 🌐 Connect
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a><br>
 <a href="https://github.com/YOUR_USERNAME">GitHub</a><br>
@@ -52,7 +50,7 @@ It's
 
 <td width="65%" valign="top">
 
-### 🚀 Welcome
+## 🚀 Welcome
 
 I build games, web applications, mobile apps, and digital products that blend technology, creativity, and business value.
 
