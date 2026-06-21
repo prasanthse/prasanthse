@@ -63,14 +63,12 @@ My expertise spans Unity, ReactJS, Flutter, PixiJS, Firebase, and enterprise sof
 </tr>
 </table>
 
-<br>
-
 <table>
 <tr>
 
 <td width="50%">
 
-### ⚡ Tech Stack
+## ⚡ Tech Stack
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -84,7 +82,7 @@ My expertise spans Unity, ReactJS, Flutter, PixiJS, Firebase, and enterprise sof
 
 <td width="50%">
 
-### 📈 GitHub Streak
+## 📈 GitHub Streak
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
 
