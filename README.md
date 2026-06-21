@@ -8,8 +8,8 @@ It's
 </h1>
 
 <h3 align="center">
-🎮 Game Developer &nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;&nbsp;
 💻 Software Engineer &nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;&nbsp;
+🎮 Game Developer &nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;&nbsp;
 🚀 Founder & CEO @ <a href="https://code3x.tech">Code3x</a>
 </h3>
 
