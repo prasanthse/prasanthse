@@ -68,7 +68,7 @@ My expertise spans Unity, ReactJS, Flutter, PixiJS, Firebase, and enterprise sof
 <table>
 <tr>
 
-<td width="50%">
+<td width="100%">
 
 ## ⚡ Tech Stack
 
@@ -107,7 +107,7 @@ My expertise spans Unity, ReactJS, Flutter, PixiJS, Firebase, and enterprise sof
 
 </td>
 
-<td width="50%">
+<td width="100%">
 
 ## 📈 GitHub Streak
 
