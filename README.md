@@ -115,6 +115,10 @@ My expertise spans Unity, ReactJS, Flutter, PixiJS, Firebase, and enterprise sof
 <table>
 <tr>
 
+<td width="100%">
+## 🎯 Featured Projects
+</td>
+
 <td width="50%">
 
 ### 🌐 Digital Portfolio
