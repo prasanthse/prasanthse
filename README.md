@@ -154,7 +154,12 @@ A Webpack-based project demonstrating modern JavaScript bundling, optimization, 
 </tr>
 </table>
 
-## 🏆 Achievements
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasanthse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthse&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
 <!--
 **prasanthse/prasanthse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
