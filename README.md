@@ -26,7 +26,7 @@ It's
 
 ### 🧑‍💻 About Me
 
-🎓 First Class Honors Software Engineering Graduate
+🎓 First Class Honors Graduate
 
 🚀 Co-Founder & CEO @ Code3x
 
