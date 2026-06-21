@@ -3,7 +3,10 @@
 <div align="center">
 
 <h1 align="center">
-It's <span style="font-weight:900; font-size:60px">PRASANTH</span>
+It's 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=PRASANTH&fontSize=80&fontColor=FFFFFF" />
+</p>
 </h1>
 
 <h3 align="center">
