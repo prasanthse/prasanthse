@@ -110,8 +110,6 @@ My expertise spans Unity, ReactJS, Flutter, PixiJS, Firebase, and enterprise sof
 </tr>
 </table>
 
-<br>
-
 ## 🎯 Featured Projects
 
 <table>
@@ -119,17 +117,17 @@ My expertise spans Unity, ReactJS, Flutter, PixiJS, Firebase, and enterprise sof
 
 <td width="50%">
 
-### 🎮 Tappy Friends
+### 🌐 Digital Portfolio
 
-Reaction-based multiplayer mobile game supporting up to 6 players.
+A ReactJS-based personal portfolio showcasing projects, skills, experience, and professional journey.
 
 </td>
 
 <td width="50%">
 
-### 🃏 OMI Online
+### 🤖 Unity State Machine
 
-Play Sri Lanka's favorite card game anytime, anywhere.
+A Unity-based state machine implementation to manage player behaviors, actions, and game logic efficiently.
 
 </td>
 
@@ -139,17 +137,17 @@ Play Sri Lanka's favorite card game anytime, anywhere.
 
 <td width="50%">
 
-### 🎲 Lottery Platform
+### 🧭 Unity NavMesh AI Pathfinding
 
-UK-based lottery and gaming platform.
+An AI navigation system using Unity NavMesh to create intelligent opponent movement and pathfinding.
 
 </td>
 
 <td width="50%">
 
-### 🚗 Driver Guides
+### 📦 Webpack Configuration
 
-Digital tourism and travel experience platform.
+A Webpack-based project demonstrating modern JavaScript bundling, optimization, and development workflow.
 
 </td>
 
