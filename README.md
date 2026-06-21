@@ -24,7 +24,7 @@ It's
 
 <td width="35%" valign="top">
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 🎓 First Class Honors Graduate
 
