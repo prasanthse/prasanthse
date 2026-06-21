@@ -10,7 +10,7 @@ It's
 <h3 align="center">
 💻 Software Engineer &nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;&nbsp;
 🎮 Game Developer &nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;&nbsp;
-🚀 Founder & CEO @ <a href="https://code3x.tech">Code3x</a>
+🚀 Founder & CEO @ <a href="https://code3x.tech" target="_blank">Code3x</a>
 </h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&color=0A66C1&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Building+Games+and+Digital+Experiences;Exploring+AI+in+Software+Development" />
@@ -42,12 +42,24 @@ It's
 
 ## 🌐 Connect
 
-<a href="https://www.linkedin.com/in/prasanthse1996">
+<a href="https://www.linkedin.com/in/prasanthse1996" target="_blank">
 <img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/>
 </a>
-<br>
-<a href="https://github.com/YOUR_USERNAME">GitHub</a><br>
-<a href="https://code3x.tech">Code3x</a>
+<a href="https://www.linkedin.com/in/prasanthse1996" target="_blank">
+<img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/>
+</a>
+<a href="https://www.linkedin.com/in/prasanthse1996" target="_blank">
+<img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/>
+</a>
+<a href="https://www.linkedin.com/in/prasanthse1996" target="_blank">
+<img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/>
+</a>
+<a href="https://www.linkedin.com/in/prasanthse1996" target="_blank">
+<img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/>
+</a>
+<a href="https://www.linkedin.com/in/prasanthse1996" target="_blank">
+<img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/>
+</a>
 
 </td>
 
