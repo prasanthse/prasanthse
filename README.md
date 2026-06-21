@@ -58,6 +58,14 @@ I build games, web applications, mobile apps, and digital products that blend te
 
 My expertise spans Unity, ReactJS, Flutter, PixiJS, Firebase, and enterprise software architecture. I enjoy leading teams, solving challenging technical problems, and transforming ideas into successful products.
 
+## 🌐 Connect
+
+<a href="https://prasanthse.github.io/digital-portfolio"><img src="https://img.icons8.com/color/96/domain.png" width="50px"/></a>
+<a href="https://www.linkedin.com/in/prasanthse1996"><img src="https://img.icons8.com/color/96/linkedin.png" width="50px"/></a>
+<a href="https://wa.link/uxiahr"><img src="https://img.icons8.com/color/96/whatsapp.png" width="50px"/></a>
+<a href="mailto:prasanth15sp@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png" width="50px"/></a>
+<a href="https://medium.com/@sivakumar-prasanth"><img src="https://img.icons8.com/color/96/medium-logo.png" width="50px"/></a>
+
 </td>
 
 </tr>
