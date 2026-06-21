@@ -1,4 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C1&height=150&section=header&text=Hello%20there%20👋&fontSize=60&&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C1&height=150&section=header&text=Hello%20there%20👋&fontSize=60&&fontColor=ffffff&fontFamily=Roboto"/>
+
+<h1 align="center">I'm Prasanth</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Game+Developer+%F0%9F%8E%AE;Software+Engineer+%F0%9F%92%BB;Co-Founder+%26+CEO+%40+Code3x+%F0%9F%9A%80;Unity+%7C+ReactJS+%7C+Flutter;Building+Digital+Experiences" alt="Typing SVG" />
+</p>
 
 🎮 Game Developer<br />
 💻 Software Engineer<br />
