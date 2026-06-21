@@ -1,14 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C1&height=150&section=header&text=Hello%20there%20👋&fontSize=60&&fontColor=ffffff"/>
 
-🎮 Game Developer
-💻 Software Engineer
-🚀 Startup Founder
+🎮 Game Developer<br />
+💻 Software Engineer<br />
+🚀 Startup Founder<br />
 
-<h2> 👨‍💻 &nbsp;Software Engineer specializing in Game Development and Full-Stack Solutions</h2>
-Passionate about building engaging games, scalable web applications, and innovative digital experiences. With 4+ years of experience in Unity, PixiJS, ReactJS, Flutter, and cloud-based solutions, I enjoy transforming ideas into impactful products.
+<h2> 👨‍💻 &nbsp;About</h2>
+Passionate about building engaging games, scalable web applications, and innovative digital experiences. With 4+ years of experience in Unity, PixiJS, ReactJS, Flutter, and cloud-based solutions, I enjoy transforming ideas into impactful products. Building products that combine great user experiences with solid engineering principles.
 
-Building products that combine great user experiences with solid engineering principles.
-<h2> 👨‍💻 &nbsp;Specializing in Game Development and Full-Stack Solutions</h2>
+<h2> 👨‍💻 &nbsp;Top Skills</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
