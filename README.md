@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C1&height=150&section=header&text=Hello%20there%20👋&fontSize=60&&fontColor=ffffff"/>
 
 <div align="center">
-
+  
 <h1 align="center">
 It's 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=PRASANTH&fontSize=80&fontColor=FFFFFF" />
@@ -13,7 +13,7 @@ It's
 🚀 Founder & CEO @ <a href="https://code3x.tech">Code3x</a>
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&color=0A66C1&center=true&vCenter=true&width=700&lines=Building+Games+and+Digital+Experiences;Unity+Developer;Full+Stack+Engineer;Exploring+AI+in+Game+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&color=0A66C1&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Building+Games+and+Digital+Experiences;Exploring+AI+in+Software+Development" />
 
 </div>
 
