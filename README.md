@@ -165,6 +165,10 @@ A Webpack-based project demonstrating modern JavaScript bundling, optimization, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthse&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C1&height=100&section=footer&fontSize=32&fontColor=ffffff&text=The%20best%20is%20yet%20to%20come"/>
+
 <!--
 **prasanthse/prasanthse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
